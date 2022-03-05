@@ -117,3 +117,5 @@ E:\asp.net core HA\examples\DevCard\DevCard_MVC\bin\Debug\net5.0\runtimes\win-ar
 E:\asp.net core HA\examples\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 E:\asp.net core HA\examples\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 E:\asp.net core HA\examples\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\Articles\_Articles.cshtml.g.cs
+E:\asp.net core HA\examples\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+E:\asp.net core HA\examples\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
